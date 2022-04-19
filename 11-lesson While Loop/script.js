@@ -1,9 +1,62 @@
+// let i = 0;
+// while ( i < 15) {
+//   console.log(i)
+//   i++
+// }
+//-----------------------------------------
+// let i = 0;
+// while ( i <= 15) {
+//   console.log(i)
+//   i++
+// }
+//
+//----------------------------------------
+// let number  = 12;
+// for (let j = 0; j < number; j++){
+//   if (j == 6) {
+//     break
+//   }
+//   console.log(j)
+// }
+//----------------------------------------------
+//
+// let number  = 10;
+// for (let j = 0; j <= number; j++){
+//   if (j == 6) {
+//     continue
+//   }
+//   console.log(j)
+// }
+
+// ------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 // Nested Loop-------------------------------------------------------------
 
 // for (let i = 0; i <= 5; i++) {
 //   for (let j = 0; j <= 3; j++  ) {
 //     document.write(i);
 //   }
+// }
+
+
+//
+// let number = 2;
+// let sum  = 4;
+//
+// for (let j = 0; j < number; j++) {
+//   console.log(j, "j for")
+//     for (let i = 0; i < sum; i++) {
+//       console.log(i, "i for")
+//     }
 // }
 
 
