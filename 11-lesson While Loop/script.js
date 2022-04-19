@@ -132,3 +132,7 @@
 
 
 
+for (let i = 87; i >= 85; i--) {
+  console.log(i)
+}
+
