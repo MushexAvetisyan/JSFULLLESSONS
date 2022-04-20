@@ -132,6 +132,7 @@
 
 
 
+<<<<<<< HEAD
 
 let num = 87;
 let i = 0;
@@ -146,3 +147,9 @@ while (i < num) {
   num--
   ++i
 }
+=======
+for (let i = 87; i >= 85; i--) {
+  console.log(i)
+}
+
+>>>>>>> 52b7853c81dd12984a819e15788f70419caf5309
